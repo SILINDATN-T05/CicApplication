@@ -1,2 +1,2 @@
-# JAVA
-For all Java projects
+# CicApplication
+cic java web services 
